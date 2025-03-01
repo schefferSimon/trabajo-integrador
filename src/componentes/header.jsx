@@ -6,8 +6,8 @@ const Header = ()=>{
         <header>
 
             <img 
-            src="https://preview.redd.it/tener-una-imagen-random-hace-que-la-publicaci%C3%B3n-tenga-m%C3%A1s-v0-6frn21rqrtoc1.jpeg?auto=webp&s=5f31ac57b8ba0cf15746c8d660b58ee0b68a43d1"
-             alt="imagen random" />
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pokebola-pokeball-png-0.png/800px-Pokebola-pokeball-png-0.png"
+             alt="imagen pokeball" />
            
              <nav>
                 <ul>

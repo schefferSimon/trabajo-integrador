@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import { Home } from "../page/home";
+import { Home } from "../page/home/home";
 import { Api } from "../page/api-data";
 import { Contact } from "../page/contact";
 

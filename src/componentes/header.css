@@ -1,7 +1,6 @@
 header{
     display: flex;
     align-items: center;
-
     padding: 10px 20px;
     width: 100%;
 }
@@ -25,7 +24,7 @@ ul {
 list-style: none;
 display: flex;
 align-items: center;
-justify-content: space-between;
+
 }
 
 nav ul li{
@@ -39,5 +38,4 @@ nav ul li{
 nav ul li a{
     color: #000;
     text-decoration: none;
-
 }
