@@ -1,16 +1,16 @@
-
+import { Link } from "react-router-dom"
 
 const Header = ()=>{
     return(
         <header>
             <img 
-            src=""
-             alt="" />
+            src="https://preview.redd.it/tener-una-imagen-random-hace-que-la-publicaci%C3%B3n-tenga-m%C3%A1s-v0-6frn21rqrtoc1.jpeg?auto=webp&s=5f31ac57b8ba0cf15746c8d660b58ee0b68a43d1"
+             alt="imagen random" />
              <nav>
                 <ul>
-                    <li><a href="/">Inicio</a></li>
-                    <li><a href="/api-data">Api</a></li>
-                    <li><a href="/contact">Contactanos</a></li>
+                    <li><Link to="/">Inicio</Link></li>
+                    <li><Link to="/api-data">Api</Link></li>
+                    <li><Link to="/contact">Contactanos</Link></li>
                 </ul>
              </nav>
         </header>
