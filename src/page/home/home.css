@@ -16,3 +16,51 @@ h1 img {
         opacity: 1;
     }
 }
+
+h1,h2,h3{
+    text-align: center;
+    margin: 20px;
+}
+
+.cont{
+    display :flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 0);
+}
+
+.img-creator{
+    width: 500px;
+    height: 400px;
+}
+
+.text-creator h3{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.text-creator p{
+    margin: 40px;
+}
+
+.cont-two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 174, 255);
+}
+
+
+.img-creator-two{
+    width: 500px;
+    height: 400px;
+}
+
+.text-creator-two h3{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.text-creator-two p{
+    margin: 40px;
+}
