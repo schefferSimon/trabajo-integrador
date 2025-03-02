@@ -4,7 +4,9 @@ import './index.css'
 import { Routerr } from './router/router.jsx'
 
 
+
 createRoot(document.getElementById('root')).render(
+
   <StrictMode>
     <Routerr/>
 
