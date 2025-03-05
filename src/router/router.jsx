@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Home } from "../page/home/home";
 import { Api } from "../page/api/api-data";
-import { Contact } from "../page/contact";
+import { Contact } from "../page/contact/contact";
 
 
 const Routerr = () => {
