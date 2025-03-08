@@ -1,0 +1,56 @@
+h1 {
+  font-family: "Press Start 2P", system-ui;
+  margin: 20px;
+}
+
+
+.cont-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px 0;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.img-card {
+  width: 200px;
+  display: block;
+  margin: 0 auto 16px;
+}
+
+.card-button {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-button button {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.card-button button:hover {
+  background-color: #0056b3;
+}
+
+.btn-disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  background-color: #eee;
+  margin: 4px 0;
+  padding: 8px;
+  border-radius: 4px;
+}
