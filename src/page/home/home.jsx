@@ -19,7 +19,16 @@ const Home =()=>{
                     alt="imagen de pokemon" 
                 />
             </h1>
-            <p></p>
+            <h2 className="h2-historia">Un poco de historia!</h2>
+            <section className="contenedor-historia">
+                <article className="cont-historia">
+                    <div className="text-historia" >
+                        <h3>¿Qué es Pokémon?</h3>
+                        <p>Pokémon es una franquicia de videojuegos creada por Satoshi Tajiri y Ken Sugimori y es propiedad de Nintendo, Game Freak y Creatures. La franquicia fue creada por Satoshi Tajiri en 1996 y se convirtió en una de las más exitosas y populares del mundo. Pokémon es una abreviatura de "Pocket Monsters" (Monstruos de bolsillo) y se centra en la captura y entrenamiento de criaturas ficticias llamadas Pokémon.</p>
+                    </div>
+                </article>
+               </section>
+
 
           <section >
                 

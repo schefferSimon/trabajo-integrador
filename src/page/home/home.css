@@ -65,3 +65,42 @@ h1,h2,h3{
     margin: 40px;
 }
 
+
+.contenedor-historia {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    margin: 20px auto;
+    max-width: 1200px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.cont-historia {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+
+.text-historia {
+    text-align: center;
+    padding: 10px;
+}
+
+.text-historia h3 {
+    margin-bottom: 10px;
+    font-size: 24px;
+    color: #333;
+}
+
+.text-historia p {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.5;
+}
+
