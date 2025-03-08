@@ -39,13 +39,13 @@ const Home = () => {
                         alt="Creador de pokemon"
                         data-aos="fade-right" />
                     <div className="text-creator" data-aos="fade-left" >
-                        <h3>Satoshi Tajiri</h3>
+                        <h2>Satoshi Tajiri</h2>
                         <p>Satoshi Tajiri, el creador principal de Pokémon, se inspiró en su infancia y su amor por la naturaleza. De niño, le encantaba coleccionar insectos y explorar el aire libre, algo que llamaba "cazar bichos". Con el tiempo, se dio cuenta de que los niños de las nuevas generaciones, debido a la urbanización, ya no tenían esa misma conexión con la naturaleza. Tajiri quería recrear esa experiencia de exploración y colección en un videojuego.</p>
                     </div>
                 </article>
                 <article className="cont-two">
                     <div className="text-creator-two" data-aos="fade-left">
-                        <h3>Ken Sugimori</h3>
+                        <h2>Ken Sugimori</h2>
                         <p>Ken Sugimori, amigo de Tajiri y cofundador de Game Freak, fue el encargado de diseñar las criaturas. Sus diseños se basaron en animales, plantas, objetos y hasta leyendas japonesas, creando un mundo lleno de diversidad y creatividad.</p>
                     </div>
                     <img
